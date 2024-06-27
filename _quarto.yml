@@ -1,0 +1,71 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Sujiao (Emma) Zhao"                                # Your name
+  description: "I’m a research economist at the Economics and Research Department of the Banco de Portugal"   # A brief slogan (optional)
+  image: img/photo.png
+
+
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+
+    # your sub-pages
+    left:
+      - text: "Home"
+        href: home/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Work in Progress"
+        href: projects/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+
+    # your social media handles
+    right:
+      - icon: briefcase
+        href: https://www.bportugal.pt/en/economista/sujiao-zhao/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sujiao-emma-zhao-634aa838/
+      - icon: github
+        href: https://github.com/SujiaoEmmaZhao/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:sujiaozhao@gmail.com"
+
+
+
+# Don't touch unless you know what you are doing :) ------------
+  search:
+    location: navbar
+    type: textbox
+  page-footer:
+    left: |
+      <span class="faux-block">&#169; 2024 Sujiao (Emma) Zhao 1.0</span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview:
+    port: 3215
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

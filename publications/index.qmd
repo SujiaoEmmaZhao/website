@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+
+
+## Suppliers as financial intermediaries: Trade credit for undervalued firms
+
+with Patrice Fontaine, *Journal of Banking & Finance*, 2021, 124, 1-19.
+
+We examine the impact of undervaluation on a firm's use of trade credit. To address potential endogeneity bias, we construct our instrumental variable based on mutual fund outflow-driven price pressure, and our undervaluation measure allows us to distinguish misvaluation from fair valuation. We find that a firm's suppliers play an important role in providing temporary bridge financing when the firm is undervalued. The effect varies with the firm's information environment and with its dependence on external finance. In addition, based on a manually matched supplier-customer sample, we show that small customers in long-term relationships with their suppliers are more likely to obtain trade credit when facing stock market undervaluation, while small suppliers with a smaller customer pool extend more trade credit to their undervalued customers.
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0378426621000017" target="_blank">Download</a><br>
+
+----
+
+## Undervaluation and non-financial information: Evidence from voluntary disclosure of CSR news
+
+with Mohammed Benlemlih and Jingwen Ge, *Journal of Business Finance & Accounting*, 2021, 48, 785–814.
+
+In this paper, we examine whether stock market imperfection plays a role in a firm's decision to release non-financial information and if so, what the underlying channels are. To address our questions, we web-scraped corporate social responsibility (CSR) news to form a sample of publicly traded non-financial US firms from CSRwire and explored exogeneous variation in stock valuation driven by institutional price pressure. Our empirical results show that firms facing stock market undervaluation are more likely than others to release CSR news. This effect is concentrated among firms exhibiting low levels of CSR commitment and low stock price informativeness. Finally, we provide evidence that the stock market reacts positively to CSR news released by undervalued firms and more so for undervalued firms with high information asymmetry.
+
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbfa.12505" target="_blank">Download</a><br>
+
+----
+
+## The Maturity Rat Race and Short-Termism
+
+with Joana F. Pimentel, *Banco de Portugal Economic Studies*, Banco de Portugal, July 2018, 23-51.
+
+The global economic financial crisis has rekindled great public interest in one of the oldest questions in finance. That is, what’s the connection between firms’ value and their financial policies? The rationality of debt maturity shortening and managerial short-termism has been at the forefront of the debate. This paper examines the “maturity rat race” proposition in a group of financially distressed firms during the recent crisis in Portugal. We find significant debt maturity shortening before firm default - a finding robust to various empirical specifications. Furthermore, we show that short-term debt overhang leads to managerial myopic behaviors (i.e., short-termism) and the pattern is even more prominent in financially distressed firms. Firms who hold a larger proportion of short-term debt are more prone to invest in short-term assets and engage in earnings management.
+
+<a href="https://www.bportugal.pt/en/paper/maturity-rat-race-and-short-termism" target="_blank">Download</a><br>

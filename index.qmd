@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  image: "img/photo.png"
+  links:
+    - icon: briefcase
+      text: BdP
+      href: https://www.bportugal.pt/en/economista/sujiao-zhao/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sujiao-emma-zhao-634aa838/
+    - icon: github
+      text: Github
+      href: https://github.com/SujiaoEmmaZhao
+    - icon: envelope
+      text: Email
+      href: "mailto:sujiaozhao@gmail.com"
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a research economist at the Economics and Research Department of the Banco de Portugal and a research fellow at Center for Economics and Finance of the University of Porto (cefUP). My research interests cover corporate finance, financial contracting, empirical banking, and the impact of climate change-related risks on banks.
+
+I am also an invited assistant professor at FEP (School of Economics and Management of the University of Porto) and at Católica Lisbon School of Business & Economics, where I teach courses in financial economics, (micro)econometrics, and dissertation seminars on climate risk and banks.
+
+Not only am I a scholar, I am also a passionate coder and have had the honor of working with great teams in developing several important financial databases and visualization tools at Banco de Portugal Microdata Research Laboratory (BPLIM) and at the European Financial Data Institute of the French National Center for Scientific Research (CNRS).
+
+On this website, you will find a selection of my publications and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking.
+
+Please feel free to [contact me](mailto:mail.sujiaozhao@gmail.com) if you have any questions or would like to discuss potential projects.
