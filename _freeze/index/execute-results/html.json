@@ -1,0 +1,14 @@
+{
+  "hash": "7c676e1f836035754b2c0ce6db82c39f",
+  "result": {
+    "markdown": "---\nabout:\n  template: jolla\n  image: \"img/photo.png\"\n  links:\n    - icon: briefcase\n      text: BdP\n      href: https://www.bportugal.pt/en/economista/sujiao-zhao/\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/sujiao-emma-zhao-634aa838/\n    - icon: github\n      text: Github\n      href: https://github.com/SujiaoEmmaZhao\n    - icon: envelope\n      text: Email\n      href: \"mailto:sujiaozhao@gmail.com\"\n---\n\n\n::: {#about-block}\n:::\n\n# Welcome to my website!\n\nI am a research economist at the Economics and Research Department of the Banco de Portugal and a research fellow at Center for Economics and Finance of the University of Porto (cefUP). My research interests cover corporate finance, financial contracting, empirical banking, and the impact of climate change-related risks on banks.\n\nI am also an invited assistant professor at FEP (School of Economics and Management of the University of Porto) and at Católica Lisbon School of Business & Economics, where I teach courses in financial economics, (micro)econometrics, and dissertation seminars on climate risk and banks.\n\nNot only am I a scholar, I am also a passionate coder and have had the honor of working with great teams in developing several important financial databases and visualization tools at Banco de Portugal Microdata Research Laboratory (BPLIM) and at the European Financial Data Institute of the French National Center for Scientific Research (CNRS).\n\nOn this website, you will find a selection of my publications and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking.\n\nPlease feel free to [contact me](mailto:mail.sujiaozhao@gmail.com) if you have any questions or would like to discuss potential projects.\n\n\n```{=html}\n<p class=\"text-center\">\n  <a class=\"btn btn-primary btn-lg cv-download\" href=\"\" target=\"_blank\">\n    <i class=\"fa-solid fa-file-arrow-down\"></i>&ensp;Download CV\n  </a>\n</p>\n<div class=\"embed-container\">\n  <iframe src=\"#toolbar=0\" style=\"border: 0.5px;width: 100%;\"></iframe>\n</div>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

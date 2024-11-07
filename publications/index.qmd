@@ -2,6 +2,15 @@
 title: "Publications"
 ---
 
+## Fiscal Policy and Credit Supply: The Procurement Channel
+
+with Diana Bonfim, Miguel Ferreira, Francisco Queiró, conditionally accepted at the *American Economic Review*
+
+We measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity
+of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis.
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873264" target="_blank">Download</a><br>
+
 
 ## Suppliers as financial intermediaries: Trade credit for undervalued firms
 

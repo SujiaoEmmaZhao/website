@@ -4,14 +4,7 @@
     "href": "cv/index.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
-  },
-  {
-    "objectID": "home/index.html",
-    "href": "home/index.html",
-    "title": "Sujiao (Emma) Zhao",
-    "section": "",
-    "text": "Welcome to my website!\nI am a research economist at the Economics and Research Department of the Banco de Portugal and a research fellow at Center for Economics and Finance of the University of Porto (cefUP). My research interests cover corporate finance, financial contracting, empirical banking, and the impact of climate change-related risks on banks.\nI am also an invited assistant professor at FEP (School of Economics and Management of the University of Porto) and at Católica Lisbon School of Business & Economics, where I teach courses in financial economics, (micro)econometrics, and dissertation seminars on climate risk and banks.\nNot only am I a scholar, I am also a passionate coder and have had the honor of working with great teams in developing several important financial databases and visualization tools at Banco de Portugal Microdata Research Laboratory (BPLIM) and at the European Financial Data Institute of the French National Center for Scientific Research (CNRS).\nOn this website, you will find a selection of my publications and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "Download CV"
   },
   {
     "objectID": "index.html",
@@ -25,14 +18,7 @@
     "href": "projects/index.html",
     "title": "Working in Progress",
     "section": "",
-    "text": "with Diana Bonfim, Miguel Ferreira, Francisco Queiró, revisions requested at the American Economic Review\nWe measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a reduction in credit supply to other firms. The credit supply shock, in turn, caused firm output to decline. In a general equilibrium model, our firm-level estimates imply an aggregate elasticity of credit supply with respect to aggregate demand of 1.6 and a credit-driven fiscal multiplier of 0.6.\nDownload"
-  },
-  {
-    "objectID": "projects/index.html#cracking-the-code-the-networking-matrix-of-finance-academia",
-    "href": "projects/index.html#cracking-the-code-the-networking-matrix-of-finance-academia",
-    "title": "Working in Progress",
-    "section": "Cracking the Code: The Networking Matrix of Finance Academia",
-    "text": "Cracking the Code: The Networking Matrix of Finance Academia\nwith Kuntara Pukthuanthong\nThis research delves into social networks among finance academics from 1980 to the present. Engagement in social networks positively correlates with productivity, with co-authors and student-advisor networks having the most significant impact, followed by post-Ph.D. and Ph.D. networks. Focusing on existing relationships rather than expanding connections and connecting with prominent researchers has proven more effective. Scholars with strong networks produce higher-quality research and receive better compensation. Our findings on editorial favoritism are complex. Co-authors of editors and Ph.D. colleagues are less likely to have their papers accepted, while student advisors are more likely. There is no evidence to support bias toward female scholars, but discrimination against Asian and Hispanic females and favoritism towards White females and Hispanic males is evident.\nDownload"
+    "text": "with Kuntara Pukthuanthong\nThis research delves into social networks among finance academics from 1980 to the present. Engagement in social networks positively correlates with productivity, with co-authors and student-advisor networks having the most significant impact, followed by post-Ph.D. and Ph.D. networks. Focusing on existing relationships rather than expanding connections and connecting with prominent researchers has proven more effective. Scholars with strong networks produce higher-quality research and receive better compensation. Our findings on editorial favoritism are complex. Co-authors of editors and Ph.D. colleagues are less likely to have their papers accepted, while student advisors are more likely. There is no evidence to support bias toward female scholars, but discrimination against Asian and Hispanic females and favoritism towards White females and Hispanic males is evident.\nDownload"
   },
   {
     "objectID": "projects/index.html#government-assistance-bank-screening-and-firm-investment-evidence-from-a-natural-disaster",
@@ -42,13 +28,6 @@
     "text": "Government Assistance, Bank Screening, and Firm Investment: Evidence from a Natural Disaster\nwith José Jorge\nNatural disasters dramatically affect firms, but they also provide an opportunity to start anew. We exploit the 15-16 October 2017 Portuguese wildfires and the ensuing official assistance that subsidized 85% of the losses and entailed bank screening, applying a differences-in-differences approach. Firms that received government assistance subsequent to the wildfires increase output, the book value of fixed assets, and employment, but productivity does not increase. Affected firms borrow long-term credit and hoard cash, and there is no evidence of excessive risk-taking. Overall, the evidence does not support the build back better effect, and is consistent with the theory that firms invest both in scale and in liquidity insurance."
   },
   {
-    "objectID": "projects/index.html#physical-risk-mortgage-lending-and-monetary-policy",
-    "href": "projects/index.html#physical-risk-mortgage-lending-and-monetary-policy",
-    "title": "Working in Progress",
-    "section": "Physical Risk, Mortgage Lending, and Monetary Policy",
-    "text": "Physical Risk, Mortgage Lending, and Monetary Policy\nwith Diana Bonfim\nWe study whether physical risk from climate change affects banks’ mortgage-lending decisions and, if so, how monetary policy alters this nexus. Utilizing detailed wildfire hazard and occurrence data in Portugal, we find evidence that banks charge risk premiums for mortgage loans originating in at-risk but not directly affected areas. This result is established by exploiting the variation in mortgage pricing within each location-year-mortgage profile bin and is observed not only at loan origination but also at loan renegotiation. Moreover, in line with the long-term shifts argument and attention, we show that the effect increases with the hazard level and is stronger for banks that adopt the Internal Ratings-Based (IRB) approach. Furthermore, we find that although monetary policy uncertainty amplifies the wildfire risk premium in the short run, suggesting the existence of a climate change-related risk-taking channel, in the long run, monetary policy attenuates the wildfire risk premium."
-  },
-  {
     "objectID": "projects/index.html#business-as-usual-bank-lending-under-credit-relief-programs",
     "href": "projects/index.html#business-as-usual-bank-lending-under-credit-relief-programs",
     "title": "Working in Progress",
@@ -56,11 +35,32 @@
     "text": "Business as Usual?: Bank Lending under Credit Relief Programs\nwith Ana Isabel Sá and Gilberto Loureiro\nThis paper exploits target and blanket credit relief programs during the COVID-19 pandemic to study policy externalities. We ask whether policies designed to support credit flow in the targeted economy have spillover effects on the untargeted economy via the bank-lending channel. To answer this question, we explore the variation in bank’s pre-pandemic loan portfolios that are eligible for the COVID-19 government guarantee schemes. Using instrumental variable techniques to address endogeneity concerns and Portuguese credit register data, we find that banks decrease loan supply to firms with government guarantees using their own funds to preserve lending to firms outside the program. Banks with high prior exposure to moratoriums have tighter lending conditions on new loans, while those with greater exposure to public guarantee schemes (PGS) offer better lending conditions. Finally, our triple differences results suggest higher/lower risk-taking in banks exposed to moratoriums/public guarantee schemes."
   },
   {
+    "objectID": "projects/index.html#physical-risk-mortgage-lending-and-monetary-policy",
+    "href": "projects/index.html#physical-risk-mortgage-lending-and-monetary-policy",
+    "title": "Working in Progress",
+    "section": "Physical Risk, Mortgage Lending, and Monetary Policy",
+    "text": "Physical Risk, Mortgage Lending, and Monetary Policy\nwith Diana Bonfim\nWe study whether physical risk from climate change affects banks’ mortgage-lending decisions and, if so, how monetary policy alters this nexus. Utilizing detailed wildfire hazard and occurrence data in Portugal, we find evidence that banks charge risk premiums for mortgage loans originating in at-risk but not directly affected areas. This result is established by exploiting the variation in mortgage pricing within each location-year-mortgage profile bin and is observed not only at loan origination but also at loan renegotiation. Moreover, in line with the long-term shifts argument and attention, we show that the effect increases with the hazard level and is stronger for banks that adopt the Internal Ratings-Based (IRB) approach. Furthermore, we find that although monetary policy uncertainty amplifies the wildfire risk premium in the short run, suggesting the existence of a climate change-related risk-taking channel, in the long run, monetary policy attenuates the wildfire risk premium."
+  },
+  {
+    "objectID": "projects/index.html#how-do-households-cope-with-the-increase-in-mortgage-rates",
+    "href": "projects/index.html#how-do-households-cope-with-the-increase-in-mortgage-rates",
+    "title": "Working in Progress",
+    "section": "How Do Households Cope with the Increase in Mortgage Rates?",
+    "text": "How Do Households Cope with the Increase in Mortgage Rates?\nwith Manuel Adelino and Miguel Ferreira"
+  },
+  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "with Patrice Fontaine, Journal of Banking & Finance, 2021, 124, 1-19.\nWe examine the impact of undervaluation on a firm’s use of trade credit. To address potential endogeneity bias, we construct our instrumental variable based on mutual fund outflow-driven price pressure, and our undervaluation measure allows us to distinguish misvaluation from fair valuation. We find that a firm’s suppliers play an important role in providing temporary bridge financing when the firm is undervalued. The effect varies with the firm’s information environment and with its dependence on external finance. In addition, based on a manually matched supplier-customer sample, we show that small customers in long-term relationships with their suppliers are more likely to obtain trade credit when facing stock market undervaluation, while small suppliers with a smaller customer pool extend more trade credit to their undervalued customers.\nDownload"
+    "text": "with Diana Bonfim, Miguel Ferreira, Francisco Queiró, conditionally accepted at the American Economic Review\nWe measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a persistent reduction in credit supply to other firms. We estimate a bank-level elasticity of credit supply with respect to procurement demand of 2.5. In a general equilibrium model, our findings point to large effects of fiscal policy on credit supply and output in a crisis.\nDownload"
+  },
+  {
+    "objectID": "publications/index.html#suppliers-as-financial-intermediaries-trade-credit-for-undervalued-firms",
+    "href": "publications/index.html#suppliers-as-financial-intermediaries-trade-credit-for-undervalued-firms",
+    "title": "Publications",
+    "section": "Suppliers as financial intermediaries: Trade credit for undervalued firms",
+    "text": "Suppliers as financial intermediaries: Trade credit for undervalued firms\nwith Patrice Fontaine, Journal of Banking & Finance, 2021, 124, 1-19.\nWe examine the impact of undervaluation on a firm’s use of trade credit. To address potential endogeneity bias, we construct our instrumental variable based on mutual fund outflow-driven price pressure, and our undervaluation measure allows us to distinguish misvaluation from fair valuation. We find that a firm’s suppliers play an important role in providing temporary bridge financing when the firm is undervalued. The effect varies with the firm’s information environment and with its dependence on external finance. In addition, based on a manually matched supplier-customer sample, we show that small customers in long-term relationships with their suppliers are more likely to obtain trade credit when facing stock market undervaluation, while small suppliers with a smaller customer pool extend more trade credit to their undervalued customers.\nDownload"
   },
   {
     "objectID": "publications/index.html#undervaluation-and-non-financial-information-evidence-from-voluntary-disclosure-of-csr-news",
@@ -75,26 +75,5 @@
     "title": "Publications",
     "section": "The Maturity Rat Race and Short-Termism",
     "text": "The Maturity Rat Race and Short-Termism\nwith Joana F. Pimentel, Banco de Portugal Economic Studies, Banco de Portugal, July 2018, 23-51.\nThe global economic financial crisis has rekindled great public interest in one of the oldest questions in finance. That is, what’s the connection between firms’ value and their financial policies? The rationality of debt maturity shortening and managerial short-termism has been at the forefront of the debate. This paper examines the “maturity rat race” proposition in a group of financially distressed firms during the recent crisis in Portugal. We find significant debt maturity shortening before firm default - a finding robust to various empirical specifications. Furthermore, we show that short-term debt overhang leads to managerial myopic behaviors (i.e., short-termism) and the pattern is even more prominent in financially distressed firms. Firms who hold a larger proportion of short-term debt are more prone to invest in short-term assets and engage in earnings management.\nDownload"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "with Patrice Fontaine Download\nWe examine the impact of undervaluation on a firm’s use of trade credit. To address potential endogeneity bias, we construct our instrumental variable based on mutual fund outflow-driven price pressure, and our undervaluation measure allows us to distinguish misvaluation from fair valuation. We find that a firm’s suppliers play an important role in providing temporary bridge financing when the firm is undervalued. The effect varies with the firm’s information environment and with its dependence on external finance. In addition, based on a manually matched supplier-customer sample, we show that small customers in long-term relationships with their suppliers are more likely to obtain trade credit when facing stock market undervaluation, while small suppliers with a smaller customer pool extend more trade credit to their undervalued customers."
-  },
-  {
-    "objectID": "teaching/index.html#undervaluation-and-non-financial-information-evidence-from-voluntary-disclosure-of-csr-news",
-    "href": "teaching/index.html#undervaluation-and-non-financial-information-evidence-from-voluntary-disclosure-of-csr-news",
-    "title": "Teaching",
-    "section": "Undervaluation and non-financial information: Evidence from voluntary disclosure of CSR news",
-    "text": "Undervaluation and non-financial information: Evidence from voluntary disclosure of CSR news\nwith Mohammed Benlemlih and Jingwen Ge Download\nIn this paper, we examine whether stock market imperfection plays a role in a firm’s decision to release non-financial information and if so, what the underlying channels are. To address our questions, we web-scraped corporate social responsibility (CSR) news to form a sample of publicly traded non-financial US firms from CSRwire and explored exogeneous variation in stock valuation driven by institutional price pressure. Our empirical results show that firms facing stock market undervaluation are more likely than others to release CSR news. This effect is concentrated among firms exhibiting low levels of CSR commitment and low stock price informativeness. Finally, we provide evidence that the stock market reacts positively to CSR news released by undervalued firms and more so for undervalued firms with high information asymmetry."
-  },
-  {
-    "objectID": "teaching/index.html#the-maturity-rat-race-and-short-termism",
-    "href": "teaching/index.html#the-maturity-rat-race-and-short-termism",
-    "title": "Teaching",
-    "section": "The Maturity Rat Race and Short-Termism",
-    "text": "The Maturity Rat Race and Short-Termism\nwith Joana F. Pimentel Download\nThe global economic financial crisis has rekindled great public interest in one of the oldest questions in finance. That is, what’s the connection between firms’ value and their financial policies? The rationality of debt maturity shortening and managerial short-termism has been at the forefront of the debate. This paper examines the “maturity rat race” proposition in a group of financially distressed firms during the recent crisis in Portugal. We find significant debt maturity shortening before firm default - a finding robust to various empirical specifications. Furthermore, we show that short-term debt overhang leads to managerial myopic behaviors (i.e., short-termism) and the pattern is even more prominent in financially distressed firms. Firms who hold a larger proportion of short-term debt are more prone to invest in short-term assets and engage in earnings management."
   }
 ]

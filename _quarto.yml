@@ -13,8 +13,6 @@ website:
 
     # your sub-pages
     left:
-      - text: "Home"
-        href: home/index.qmd
       - text: "Publications"
         href: publications/index.qmd
       - text: "Work in Progress"

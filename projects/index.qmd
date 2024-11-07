@@ -2,16 +2,6 @@
 title: Working in Progress
 ---
 
-## Fiscal Policy and Credit Supply: The Procurement Channel
-
-with Diana Bonfim, Miguel Ferreira, Francisco Queiró, revisions requested at the *American Economic Review*
-
-We measure how cuts to public procurement propagate through the banking system in a financial crisis. During the European sovereign debt crisis, the Portuguese government cut procurement spending by 4.3% of GDP. We find that this cut saddled banks with non-performing loans from government contractors, which led to a reduction in credit supply to other firms. The credit supply shock, in turn, caused firm output to decline. In a general equilibrium model, our firm-level estimates imply an aggregate elasticity of credit supply with respect to aggregate demand of 1.6 and a credit-driven fiscal multiplier of 0.6.
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873264" target="_blank">Download</a><br>
-
-
-----
 
 ## Cracking the Code: The Networking Matrix of Finance Academia
 
@@ -33,6 +23,15 @@ Natural disasters dramatically affect firms, but they also provide an opportunit
 
 ----
 
+## Business as Usual?: Bank Lending under Credit Relief Programs
+
+with Ana Isabel Sá and Gilberto Loureiro
+
+This paper exploits target and blanket credit relief programs during the COVID-19 pandemic to study policy externalities. We ask whether policies designed to support credit flow in the targeted economy have spillover effects on the untargeted economy via the bank-lending channel. To answer this question, we explore the variation in bank’s pre-pandemic loan portfolios that are eligible for the COVID-19 government guarantee schemes. Using instrumental variable techniques to address endogeneity concerns and Portuguese credit register data, we find that banks decrease loan supply to firms with government guarantees using their own funds to preserve lending to firms outside the program. Banks with high prior exposure to moratoriums have tighter lending conditions on new loans, while those with greater exposure to public guarantee schemes (PGS) offer better lending conditions. Finally, our triple differences results suggest higher/lower risk-taking in banks exposed to moratoriums/public guarantee schemes.
+
+
+----
+
 ## Physical Risk, Mortgage Lending, and Monetary Policy
 
 with Diana Bonfim
@@ -41,8 +40,6 @@ We study whether physical risk from climate change affects banks’ mortgage-len
 
 ----
 
-## Business as Usual?: Bank Lending under Credit Relief Programs
+## How Do Households Cope with the Increase in Mortgage Rates?
 
-with Ana Isabel Sá and Gilberto Loureiro
-
-This paper exploits target and blanket credit relief programs during the COVID-19 pandemic to study policy externalities. We ask whether policies designed to support credit flow in the targeted economy have spillover effects on the untargeted economy via the bank-lending channel. To answer this question, we explore the variation in bank’s pre-pandemic loan portfolios that are eligible for the COVID-19 government guarantee schemes. Using instrumental variable techniques to address endogeneity concerns and Portuguese credit register data, we find that banks decrease loan supply to firms with government guarantees using their own funds to preserve lending to firms outside the program. Banks with high prior exposure to moratoriums have tighter lending conditions on new loans, while those with greater exposure to public guarantee schemes (PGS) offer better lending conditions. Finally, our triple differences results suggest higher/lower risk-taking in banks exposed to moratoriums/public guarantee schemes.
+with Manuel Adelino and Miguel Ferreira
